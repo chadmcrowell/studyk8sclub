@@ -1,12 +1,13 @@
-/cka-handbook   https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook
-/cka-env        https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#adjusting-font-and-windows-in-the-examui
-/cka-outline    https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.28.pdf
-/cka-domains    https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.28.pdf
-/cka-schedule   https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
-/ckad-cncf      https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.28.pdf
-/ckad-repo      https://github.com/chadmcrowell/ckad/
-/ckad           https://killercoda.com/chadmcrowell/course/ckad/
-/cka            https://killercoda.com/chadmcrowell/course/cka
-/cka-cncf       https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.28.pdf
+/cka-questions   https://jira.linuxfoundation.org/plugins/servlet/desk/portal/15
+/cka-handbook    https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook
+/cka-env         https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#adjusting-font-and-windows-in-the-examui
+/cka-outline     https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.28.pdf
+/cka-domains     https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.28.pdf
+/cka-schedule    https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka
+/ckad-cncf       https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.28.pdf
+/ckad-repo       https://github.com/chadmcrowell/ckad/
+/ckad            https://killercoda.com/chadmcrowell/course/ckad/
+/cka             https://killercoda.com/chadmcrowell/course/cka
+/cka-cncf        https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.28.pdf
 #studyk8s.clubwillredirecttohttps://killercoda.com/chadmcrowell/course/ckad/
-/*              https://killercoda.com/chadmcrowell/
+/*               https://killercoda.com/chadmcrowell/
